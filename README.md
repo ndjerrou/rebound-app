@@ -22,6 +22,6 @@ Welcome to the Rebound Github project page
 
 - Launch the project by typing ```npm start```
 
-You should have already lanuched your server with LocalWP.
+You should have already launched your server with LocalWP.
 
 Live version [here](https://reboundco.fr/shop)

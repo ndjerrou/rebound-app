@@ -1,0 +1,5 @@
+.carousel-root > .carousel-slider > .slider-wrapper > .animated > .selected {
+  transition-timing-function: ease-in-out;
+  transition: 0.5s;
+  transform: scale(1.2) translateY(-20px);
+}

@@ -1,0 +1,11 @@
+.rb-video-metabox label {
+  color: #3390fa;
+}
+
+.rb-video-metabox td {
+  padding: 5px;
+}
+
+.rb-video-metabox th {
+  padding: 10px 10px 5px 0;
+}
